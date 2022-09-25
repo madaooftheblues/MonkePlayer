@@ -29,3 +29,11 @@ Press `n` to play the next song in the list.
 Press `p` to play the previous song in the list.
 
 Press `0` or `9` to increase or decrease volume respectively.
+
+### Compiling
+
+SDL and SDL_mixer libraries as well as the ncurses library is required to be installed for compilation.
+
+Make sure to link the libraries when compiling:
+
+`g++ MonkePlayer.cpp Song.cpp -o MonkePlayer -lncurses -lSDL -lSDL_mixer`

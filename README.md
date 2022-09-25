@@ -5,12 +5,27 @@ A minimalist command-line music player using SDL/SDL_mixer and ncurses. Develope
 ### Dependencies:
 
 SDL/SDL_mixer
+
 ncurses
 
 ### Use Cases:
 
-Drag&Drop the music file you want to play.
+Drag & Drop the song you want to play.
 
 Create, View, Play, Save, Load your own playlist.
 
-Add or Delete music files from the playlist.
+Add or Delete any song from the playlist.
+
+### Usage:
+
+Follow along the menu.
+
+When in `Play` mode:
+
+Press `spacebar` to pause or play.
+
+Press `n` to play the next song in the list.
+
+Press `p` to play the previous song in the list.
+
+Press `0` or `9` to increase or decrease volume respectively.

@@ -43,15 +43,15 @@ Make sure to link the libraries when compiling:
 ![Main Menu](visuals/main.png)
 
 > Main Menu
-> \
-> ![Add Song](visuals/add2.png)
+
+![Add Song](visuals/add2.png)
 
 > Add Song
-> \
-> ![View Playlist](visuals/list.png)
+
+![View Playlist](visuals/list.png)
 
 > View Playlist
-> \
-> ![Play](visuals/play.png)
+
+![Play](visuals/play.png)
 
 > Play

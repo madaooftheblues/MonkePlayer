@@ -37,3 +37,7 @@ SDL and SDL_mixer libraries as well as the ncurses library is required to be ins
 Make sure to link the libraries when compiling:
 
 `g++ MonkePlayer.cpp Song.cpp -o MonkePlayer -lncurses -lSDL -lSDL_mixer`
+
+### Visuals
+
+![Main Menu](visuals/main.png)
